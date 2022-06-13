@@ -3,7 +3,7 @@
 - I’m currently learning [Bazel], [Rust] and [Go]
 - I previously worked with [SAP],[ABAP], [UIPath], [Sikulix], Python, Typescript, Javascript, C# and Java. 
 - I like a good developer experience and Monorepos.
-<!-- - I have a [blog] --->
+- I have a small [blog]
 
 
 <!---
@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 --->
 [ABAP]: https://en.wikipedia.org/wiki/ABAP
 [Bazel]: https://www.bazel.build
-<!-- [blog]: https://gith -->
+[blog]: [https://PhilipMetzger.github.io](https://philipmetzger.github.io/)
 [Databases]: https://www.sqlite.org
 [gRPC]: https://grpc.io
 [Go]: https://go.dev
