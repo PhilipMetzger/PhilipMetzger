@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 --->
 [ABAP]: https://en.wikipedia.org/wiki/ABAP
 [Bazel]: https://www.bazel.build
-[blog]: [https://PhilipMetzger.github.io](https://philipmetzger.github.io/)
+[blog]: https://philipmetzger.github.io/
 [Databases]: https://www.sqlite.org
 [gRPC]: https://grpc.io
 [Go]: https://go.dev
