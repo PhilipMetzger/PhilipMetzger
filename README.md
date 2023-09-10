@@ -5,11 +5,12 @@ You can click the Preview link to take a look at your changes.
 - Hi, I’m @PhilipMetzger
 - I’m interested in [Rust], C++, C, Browsers (Chromium and Webkit), [Buildsystems], [Databases], [gRPC] and [LLVM]. 
 - I’m currently learning [Bazel], [Rust] and [Go].
-- I previously worked with [SAP],[ABAP], [UIPath], [Sikulix], [Python], [Typescript], [Javascript], [C#] and [Java]. 
+- I previously worked with [SAP], [ABAP], [UIPath], [Sikulix], [Python], [Typescript], [Javascript], [C#] and [Java]. 
 - I like a good developer experience and Monorepos.
 - In the future, I also want to work with [Kubernetes] and [Envoy].
-- I like to work in Infrastructure (Build, Plattform, Toolchain, Release) and enjoy doing DevOps/SRE work.
+- I like to work in Infrastructure (Build, Platform, Toolchain, Release) and enjoy doing SRE work.
 - Software I look out for: [Jujutsu] and [Sapling].
+- I'm a [Jujutsu] contributor. 
 - I have a small [blog].
 
 I like Google's Borg, GFS and Bigtable papers and Buildsystems a la carte.
